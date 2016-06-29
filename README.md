@@ -10,16 +10,16 @@ gulp --production
 ```
 ## HTML
 ### for mouse only
-```
+```html
 <div class="mouse center-block"></div>
 ```
 ### for mouse and arrow
-```
-<div class="mouse center-block"></div>
-<div class="arrow-scroll center-block">
-    <span></span>
-    <span></span>
-    <span></span>
+```html
+<div class="mouse"></div>
+<div class="arrow-scroll">
+  <span></span>
+  <span></span>
+  <span></span>
 </div>
 ```
 
@@ -30,14 +30,14 @@ gulp watch
 
 ### for change size and color
 SCSS file ./scss/main.scss
-```
+```scss
 //for change size mouse
-$mouse-size-height:                      50px !default;
-$mouse-border-size:                      2px !default;
-$mouse-color:                            #fff !default;
+$mouse-size-height:               50px !default;
+$mouse-border-size:               2px !default;
+$mouse-color:                     #fff !default;
 
 //for change size down arrow
-$arrow-size:                             9px !default;
+$arrow-size:                      9px !default;
 ```
 ```
 gulp --production
