@@ -1,0 +1,38 @@
+{
+  "name": "mouse-animation-scroll-css",
+  "author": "Libor Ptacek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PTiCA1/mouse-animation-scroll-css"
+  },
+  "engines": {
+    "node": ">= 0.12.0",
+    "npm": ">=2.1.5"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-if": "^1.2.5",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "jshint-stylish": "^2.0.1",
+    "run-sequence": "^1.2.1"
+  }
+}
