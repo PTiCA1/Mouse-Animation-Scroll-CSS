@@ -1,1 +1,1 @@
-# mouse-animation-scroll-css
+# Mouse animation scroll for landing pages
