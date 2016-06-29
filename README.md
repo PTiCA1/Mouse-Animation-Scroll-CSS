@@ -22,11 +22,14 @@ gulp --production
     <span></span>
 </div>
 ```
+
 ## Development SCSS styles
 ```
 gulp watch
 ```
-### for change sizes
+
+### for change size and color
+SCSS file ./scss/main.scss
 ```
 //for change size mouse
 $mouse-size-height:                      50px !default;
@@ -36,3 +39,9 @@ $mouse-color:                            #fff !default;
 //for change size down arrow
 $arrow-size:                             9px !default;
 ```
+```
+gulp --production
+```
+
+### Online preview
+Online preview on [Codepen.io](http://codepen.io/PTiCA1/pen/vKxVME).
