@@ -4,7 +4,7 @@
 
 ## Instalation
 ```
-git clone git://github.com/PTiCA1/mouse-animation-scroll-css.git
+git clone git://github.com/PTiCA1/Mouse-Animation-Scroll-CSS.git
 npm install
 gulp --production
 ```

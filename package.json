@@ -2,7 +2,7 @@
   "name": "Mouse-Animation-Scroll-CSS",
   "author": "Libor Ptacek",
   "version": "1.0.0",
-  "description": "Mouse animation scroll icon for landing pages & other",
+  "description": "Mouse animation scroll icon for landing pages & others",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
