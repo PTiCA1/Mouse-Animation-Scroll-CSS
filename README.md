@@ -43,5 +43,10 @@ $arrow-size:                             9px !default;
 gulp --production
 ```
 
+### Tested
+Tested on IE10 + with animations. On IE9 and older without animation.
+For other browsers such as Safari, Chrome, Firefox without problems in the last two versions.
+
 ### Online preview
 Online preview on [Codepen.io](http://codepen.io/PTiCA1/pen/vKxVME).
+
